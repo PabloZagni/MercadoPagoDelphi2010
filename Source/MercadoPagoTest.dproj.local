@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/08/15 10:47:20.164.pas,C:\Users\pablo\Documents\RAD Studio\Projects\Unit2.pas=C:\z.system\MercadoPago\Source\MercadoPago_u.pas</Transaction>
+    <Transaction>2018/08/15 10:47:32.982.pas,C:\Users\pablo\Documents\RAD Studio\Projects\Unit1.pas=C:\z.system\MercadoPago\Source\Main_u.pas</Transaction>
+    <Transaction>2018/08/15 10:47:32.982.dfm,C:\Users\pablo\Documents\RAD Studio\Projects\Unit1.dfm=C:\z.system\MercadoPago\Source\Main_u.dfm</Transaction>
+    <Transaction>2018/08/15 10:47:39.691.dproj,C:\Users\pablo\Documents\RAD Studio\Projects\Project1.dproj=C:\z.system\MercadoPago\Source\DEMO.dproj</Transaction>
+    <Transaction>2018/08/23 10:36:13.316.pas,C:\z.system\MercadoPago\Source\CurlPas-master\src\curldbug.pas=</Transaction>
+    <Transaction>2018/08/23 10:36:13.316.pas,C:\z.system\MercadoPago\Source\CurlPas-master\src\curlobj.pas=</Transaction>
+    <Transaction>2018/08/23 10:36:13.316.pas,C:\z.system\MercadoPago\Source\CurlPas-master\src\curl_h.pas=</Transaction>
+    <Transaction>2018/08/23 14:14:32.145.pas,C:\z.system\Delphi\z.system\Defines_u.pas=</Transaction>
+    <Transaction>2018/08/23 14:14:37.508.pas,C:\z.system\Delphi\z.system\Funcion_u.pas=</Transaction>
+    <Transaction>2018/08/23 14:16:12.527.pas,C:\z.system\Delphi\z.system\HTTP.pas=</Transaction>
+    <Transaction>2018/09/01 14:41:43.971.pas,C:\z.system\MercadoPago\Source\Unit1.pas=C:\z.system\MercadoPago\Source\JSonHelper_u.pas</Transaction>
+    <Transaction>2018/09/01 14:57:34.688.pas,C:\z.system\MercadoPago\Source\HTTP.pas=</Transaction>
+    <Transaction>2018/09/01 15:00:30.140.pas,C:\z.system\MercadoPago\Source\JSonHelper_u.pas=</Transaction>
+    <Transaction>2018/09/08 14:08:15.889.pas,C:\z.system\MercadoPago\Source\MercadoPago_u.pas=C:\z.system\Delphi\z.system\MercadoPago_u.pas</Transaction>
+    <Transaction>2018/09/08 14:15:13.138.pas,C:\z.system\MercadoPago\Source\JSonHelper_u.pas=</Transaction>
+    <Transaction>2018/09/19 13:09:25.480.dproj,C:\z.system\MercadoPago\Source\DEMO.dproj=C:\z.system\MercadoPago\Source\MPTest.dproj</Transaction>
+    <Transaction>2018/09/21 11:40:11.559.dproj,C:\z.system\MercadoPago\Source\MPTest.dproj=C:\z.system\MercadoPago\Source\MercadoPagoTest.dproj</Transaction>
+    <Transaction>2019/01/13 10:37:04.888.pas,C:\z.system\MercadoPago\Source\Unit1.pas=C:\z.system\MercadoPago\Source\Config_u.pas</Transaction>
+  </Transactions>
+</BorlandProject>
