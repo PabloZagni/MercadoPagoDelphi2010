@@ -24,6 +24,7 @@ object Form1: TForm1
     Caption = 'Panel1'
     ShowCaption = False
     TabOrder = 0
+    ExplicitHeight = 685
     object pnConfig: TPanel
       Left = 1
       Top = 1
@@ -168,6 +169,7 @@ object Form1: TForm1
           E8E8E809E8E8E809E809E8E8E8E8E8E8E8E8E881E8E8E881E881E8E8E8E8E8E8
           E8E8E8E8090909E8E8E8E8E8E8E8E8E8E8E8E8E8818181E8E8E8}
         NumGlyphs = 2
+        ExplicitTop = 132
       end
       object btnConfigSave: TRzBitBtn
         Left = 89
@@ -228,6 +230,7 @@ object Form1: TForm1
           090909090909090909E8E88181818181818181818181818181E8E8E8E8E8E8E8
           E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8}
         NumGlyphs = 2
+        ExplicitTop = 132
       end
       object edUltimoCobro: TEdit
         Left = 80
@@ -257,6 +260,8 @@ object Form1: TForm1
     Enabled = False
     ShowCaption = False
     TabOrder = 1
+    ExplicitWidth = 804
+    ExplicitHeight = 685
     object lbStatus: TLabel
       Left = 11
       Top = 450
@@ -322,5 +327,20 @@ object Form1: TForm1
   object Timer1: TTimer
     Left = 528
     Top = 240
+  end
+  object JvFormStorage1: TJvFormStorage
+    AppStorage = JvAppRegistryStorage1
+    AppStoragePath = '%FORM_NAME%\'
+    StoredValues = <>
+    Left = 488
+    Top = 152
+  end
+  object JvAppRegistryStorage1: TJvAppRegistryStorage
+    StorageOptions.BooleanStringTrueValues = 'TRUE, YES, Y'
+    StorageOptions.BooleanStringFalseValues = 'FALSE, NO, N'
+    Root = 'software\z.system\mercadopago'
+    SubStorages = <>
+    Left = 544
+    Top = 176
   end
 end

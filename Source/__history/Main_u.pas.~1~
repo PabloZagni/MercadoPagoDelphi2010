@@ -14,6 +14,8 @@ type
   TForm1 = class(TForm)
     Panel1: TPanel;
     Timer1: TTimer;
+    JvFormStorage1: TJvFormStorage;
+    JvAppRegistryStorage1: TJvAppRegistryStorage;
     pnConfig: TPanel;
     chSandbox: TCheckBox;
     Label1: TLabel;
